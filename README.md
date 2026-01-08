@@ -35,4 +35,18 @@ This project is a front-end implementation inspired by [SellSharp.co](https://se
 
 ## 📁 Project Structure
 
+```
+sellsharp-app/
+├── public/                # Static assets
+├── src/
+│   ├── components/        # Reusable UI components
+│   ├── pages/             # Login, Signup, Home pages
+│   ├── styles/            # CSS files
+│   ├── App.jsx            # Main app component
+│   └── index.js           # React entry point
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 
+```
