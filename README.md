@@ -7,6 +7,7 @@ This project is a front-end implementation inspired by [SellSharp.co](https://se
 
 ## 🚀 Project deployment
 
+**Browser: https://sellsharp-app2.vercel.app/
 ---
 
 ## 🧰 Technology Stack
