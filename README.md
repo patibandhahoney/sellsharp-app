@@ -14,7 +14,7 @@ This project is a front-end implementation inspired by [SellSharp.co](https://se
 ## 🧰 Technology Stack
 
 - **Frontend:** ReactJS  
-- **Styling:** CSS3 (no Tailwind / Bootstrap)  
+- **Styling:** CSS
 - **Routing:** Wouter  
 - **Icons:** Lucide React  
 - **State & Hooks:** React Hooks (useState, useEffect)  
@@ -26,13 +26,13 @@ This project is a front-end implementation inspired by [SellSharp.co](https://se
 - Fully **responsive landing page**
 - Hero section with call-to-action button
 - Features and pricing sections
-- Login and Signup pages (UI-only, ready to connect to Firebase or backend)
+- Login and Signup pages (UI-only)
 - Interactive navigation bar
 - Accessible and keyboard-friendly components
 - Custom carousel / cards implemented in React + CSS
-- Modern UI design, similar to SellSharp
 
 ---
 
 ## 📁 Project Structure
+
 
