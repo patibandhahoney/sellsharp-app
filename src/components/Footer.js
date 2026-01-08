@@ -4,7 +4,7 @@ function Footer() {
       <div className="footer-content">
         <div className="footer-brand">
           <div className="logo" style={{marginBottom: '1rem'}}>SellSharp</div>
-          <p>The AI-powered sales enablement platform for modern teams.</p>
+          <p>The full-powered sales enablement platform for modern teams.</p>
         </div>
         <div className="footer-column">
           <h4>Product</h4>

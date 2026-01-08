@@ -56,7 +56,7 @@ function UseCases() {
                 <p className="testimonial-stat">50% Faster Training</p>
               </div>
             </div>
-            <p className="testimonial-quote">"The AI playbooks allowed us to scale our team globally without sacrificing pitch quality."</p>
+            <p className="testimonial-quote">"The playbooks allowed us to scale our team globally without sacrificing pitch quality."</p>
             <p className="testimonial-author">— Michael Chen, Head of Enablement</p>
           </div>
           <div className="testimonial-card">
@@ -93,7 +93,7 @@ function UseCases() {
 
       <section className="ai-platform">
         <div className="ai-content">
-          <h2>AI-Powered Sales Intelligence</h2>
+          <h2>Sales Intelligence</h2>
           <p>Our advanced AI analyzes every sales interaction in real-time, providing instant insights, objection handling, and competitive intelligence to help your team close more deals.</p>
           <div className="ai-features">
             <div className="ai-feature">

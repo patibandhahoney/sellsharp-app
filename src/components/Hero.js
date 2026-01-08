@@ -4,7 +4,7 @@ function Hero({ navigate }) {
       
       <h1>Empower Your Sales Team <span>with SellSharp</span></h1>
       <h2 style={{fontSize: '1.5rem', marginBottom: '1rem', color: 'var(--text-dark)', fontWeight: '700'}}>Everything you need to close</h2>
-      <p style={{color: '#ffffffff', fontWeight: '500'}}>The all-in-one AI sales enablement platform. Create playbooks, handle objections in real-time, and close deals faster.</p>
+      <p style={{color: '#ffffffff', fontWeight: '500'}}>The all-in-one sales enablement platform. Create playbooks, handle objections in real-time, and close deals faster.</p>
       <div className="hero-btns">
         <button className="btn btn-primary btn-large" onClick={() => navigate('signup')}>Start Free Trial</button>
         <button className="btn btn-login btn-large" style={{border: '1px solid var(--border-color)'}}>Watch Demo</button>
