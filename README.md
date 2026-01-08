@@ -5,11 +5,7 @@ This project is a front-end implementation inspired by [SellSharp.co](https://se
 
 ---
 
-## 🚀 Snapshot
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/915fb7e3-9f5f-45d9-9dec-37ab44de3e9d" />
-
-
+## 🚀 Project deployment
 
 ---
 
